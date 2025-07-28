@@ -19,7 +19,7 @@ export const About = () => {
 
           <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
             <p className="text-gray-300 mb-6">
-              Creative developer with a keen eye for design, crafting visually
+              Creative developer with a keen eye for design websites, crafting visually
               stunning and user-friendly web experiences that seamlessly blend
               aesthetics with functionality
             </p>
